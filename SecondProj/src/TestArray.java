@@ -15,9 +15,9 @@ public class TestArray {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int salaries [] = {2,4,6,8};
-		Array.getShort(salaries, arg1)
-		System.out.print(sal + ",");
+		int salaries [] = {2222,100,50,60,170,80,1,5,10};
+		Array.sort(salaries);
+		System.out.println(Array.);
 		/*
 		 * for(int i=0;i <sal.
 		 */
