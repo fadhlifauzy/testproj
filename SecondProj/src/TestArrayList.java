@@ -27,7 +27,6 @@ public class TestArrayList {
 			//al.add(Boolean.TRUE) ;
 			System.out.println(al);
 			Object ar [] = (String [])al.toArray();
-			ner
 			
 			System.out.println(ar);
 			
